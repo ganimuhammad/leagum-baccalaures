@@ -1,0 +1,21 @@
+.about-container {
+  padding-top: 9.1em;
+  .about-title {
+    font-size: 9.1em;
+    font-weight: bolder;
+    color: black;
+    -webkit-text-fill-color: white; /* Will override color (regardless of order) */
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+  }
+  .about-small-title {
+    font-size: 3.75em;
+  }
+  .about-description {
+    font-size: 1.5em;
+    width: 830px;
+    margin: 0 auto;
+    margin-top: 87px;
+    letter-spacing: 3px;
+  }
+}

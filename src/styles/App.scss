@@ -5,6 +5,7 @@
 @import "./components/banner.scss";
 @import "./components/cases.scss";
 @import "./components/navigation.scss";
+@import "./pages/about.scss";
 
 body,
 html {
@@ -138,13 +139,3 @@ html {
   position: relative;
 }
 
-.page {
-  height: 100vh;
-  width: 100%;
-  background: $white;
-  .cloumn {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  }
-}
