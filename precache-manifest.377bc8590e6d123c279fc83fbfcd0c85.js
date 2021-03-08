@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "08911e557f31a11779da9b26dbfc1432",
+    "revision": "71436ada1896540193d7998ca17eb5c4",
     "url": "/leagum-baccalaures/index.html"
   },
   {
-    "revision": "ea22cd8ad3cc660bd7ea",
+    "revision": "97573317efced56347d0",
     "url": "/leagum-baccalaures/static/css/main.35db932d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/leagum-baccalaures/static/js/2.424625e8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ea22cd8ad3cc660bd7ea",
-    "url": "/leagum-baccalaures/static/js/main.8b85c5f7.chunk.js"
+    "revision": "97573317efced56347d0",
+    "url": "/leagum-baccalaures/static/js/main.08f2fcb2.chunk.js"
   },
   {
     "revision": "4ab952e40cd2ca4d7c93",

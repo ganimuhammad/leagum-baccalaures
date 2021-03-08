@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/leagum-baccalaures/static/css/main.35db932d.chunk.css",
-    "main.js": "/leagum-baccalaures/static/js/main.8b85c5f7.chunk.js",
-    "main.js.map": "/leagum-baccalaures/static/js/main.8b85c5f7.chunk.js.map",
+    "main.js": "/leagum-baccalaures/static/js/main.08f2fcb2.chunk.js",
+    "main.js.map": "/leagum-baccalaures/static/js/main.08f2fcb2.chunk.js.map",
     "runtime-main.js": "/leagum-baccalaures/static/js/runtime-main.2a1e84ef.js",
     "runtime-main.js.map": "/leagum-baccalaures/static/js/runtime-main.2a1e84ef.js.map",
     "static/js/2.424625e8.chunk.js": "/leagum-baccalaures/static/js/2.424625e8.chunk.js",
     "static/js/2.424625e8.chunk.js.map": "/leagum-baccalaures/static/js/2.424625e8.chunk.js.map",
     "index.html": "/leagum-baccalaures/index.html",
-    "precache-manifest.5146c50f018e0e94ad139e014ffdf7dd.js": "/leagum-baccalaures/precache-manifest.5146c50f018e0e94ad139e014ffdf7dd.js",
+    "precache-manifest.377bc8590e6d123c279fc83fbfcd0c85.js": "/leagum-baccalaures/precache-manifest.377bc8590e6d123c279fc83fbfcd0c85.js",
     "service-worker.js": "/leagum-baccalaures/service-worker.js",
     "static/css/main.35db932d.chunk.css.map": "/leagum-baccalaures/static/css/main.35db932d.chunk.css.map",
     "static/js/2.424625e8.chunk.js.LICENSE.txt": "/leagum-baccalaures/static/js/2.424625e8.chunk.js.LICENSE.txt",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.2a1e84ef.js",
     "static/js/2.424625e8.chunk.js",
     "static/css/main.35db932d.chunk.css",
-    "static/js/main.8b85c5f7.chunk.js"
+    "static/js/main.08f2fcb2.chunk.js"
   ]
 }

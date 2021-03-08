@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/leagum-baccalaures/precache-manifest.5146c50f018e0e94ad139e014ffdf7dd.js"
+  "/leagum-baccalaures/precache-manifest.377bc8590e6d123c279fc83fbfcd0c85.js"
 );
 
 self.addEventListener('message', (event) => {
