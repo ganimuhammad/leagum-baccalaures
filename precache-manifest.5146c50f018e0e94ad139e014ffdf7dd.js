@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "11ec0711264bea2f0cd883cf830ffc22",
+    "revision": "08911e557f31a11779da9b26dbfc1432",
     "url": "/leagum-baccalaures/index.html"
   },
   {
-    "revision": "78d92fe17a6ee86eb83d",
-    "url": "/leagum-baccalaures/static/css/main.0e0a9016.chunk.css"
+    "revision": "ea22cd8ad3cc660bd7ea",
+    "url": "/leagum-baccalaures/static/css/main.35db932d.chunk.css"
   },
   {
     "revision": "f6127887a59f9b2121f7",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/leagum-baccalaures/static/js/2.424625e8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "78d92fe17a6ee86eb83d",
-    "url": "/leagum-baccalaures/static/js/main.b6db0b1a.chunk.js"
+    "revision": "ea22cd8ad3cc660bd7ea",
+    "url": "/leagum-baccalaures/static/js/main.8b85c5f7.chunk.js"
   },
   {
     "revision": "4ab952e40cd2ca4d7c93",
@@ -44,19 +44,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/leagum-baccalaures/static/media/arrow-right.dc372a07.svg"
   },
   {
-    "revision": "e84c205576ce51cc6a90653c49df11f0",
-    "url": "/leagum-baccalaures/static/media/curology-min.e84c2055.png"
-  },
-  {
-    "revision": "379bad944ff3f73142989e87c5b24773",
-    "url": "/leagum-baccalaures/static/media/lumin-min.379bad94.png"
-  },
-  {
-    "revision": "d6c4e78d7090519fda9f11d208356f79",
-    "url": "/leagum-baccalaures/static/media/up-arrow-circle.d6c4e78d.svg"
-  },
-  {
-    "revision": "5f9e30771ee4dbbad1689af16cb49028",
-    "url": "/leagum-baccalaures/static/media/yourspace-min.5f9e3077.png"
+    "revision": "942c81fd7c87df7da8c098906a29d3fe",
+    "url": "/leagum-baccalaures/static/media/up-arrow-circle.942c81fd.svg"
   }
 ]);

@@ -1,31 +1,28 @@
 {
   "files": {
-    "main.css": "/leagum-baccalaures/static/css/main.0e0a9016.chunk.css",
-    "main.js": "/leagum-baccalaures/static/js/main.b6db0b1a.chunk.js",
-    "main.js.map": "/leagum-baccalaures/static/js/main.b6db0b1a.chunk.js.map",
+    "main.css": "/leagum-baccalaures/static/css/main.35db932d.chunk.css",
+    "main.js": "/leagum-baccalaures/static/js/main.8b85c5f7.chunk.js",
+    "main.js.map": "/leagum-baccalaures/static/js/main.8b85c5f7.chunk.js.map",
     "runtime-main.js": "/leagum-baccalaures/static/js/runtime-main.2a1e84ef.js",
     "runtime-main.js.map": "/leagum-baccalaures/static/js/runtime-main.2a1e84ef.js.map",
     "static/js/2.424625e8.chunk.js": "/leagum-baccalaures/static/js/2.424625e8.chunk.js",
     "static/js/2.424625e8.chunk.js.map": "/leagum-baccalaures/static/js/2.424625e8.chunk.js.map",
     "index.html": "/leagum-baccalaures/index.html",
-    "precache-manifest.12002e8773722754a814b37812345c4f.js": "/leagum-baccalaures/precache-manifest.12002e8773722754a814b37812345c4f.js",
+    "precache-manifest.5146c50f018e0e94ad139e014ffdf7dd.js": "/leagum-baccalaures/precache-manifest.5146c50f018e0e94ad139e014ffdf7dd.js",
     "service-worker.js": "/leagum-baccalaures/service-worker.js",
-    "static/css/main.0e0a9016.chunk.css.map": "/leagum-baccalaures/static/css/main.0e0a9016.chunk.css.map",
+    "static/css/main.35db932d.chunk.css.map": "/leagum-baccalaures/static/css/main.35db932d.chunk.css.map",
     "static/js/2.424625e8.chunk.js.LICENSE.txt": "/leagum-baccalaures/static/js/2.424625e8.chunk.js.LICENSE.txt",
     "static/media/1.png": "/leagum-baccalaures/static/media/1.a6110e4c.png",
     "static/media/2.png": "/leagum-baccalaures/static/media/2.b337f2e9.png",
     "static/media/3.png": "/leagum-baccalaures/static/media/3.0b799b45.png",
     "static/media/arrow-left.f9a44e1c.svg": "/leagum-baccalaures/static/media/arrow-left.f9a44e1c.svg",
     "static/media/arrow-right.dc372a07.svg": "/leagum-baccalaures/static/media/arrow-right.dc372a07.svg",
-    "static/media/curology-min.png": "/leagum-baccalaures/static/media/curology-min.e84c2055.png",
-    "static/media/lumin-min.png": "/leagum-baccalaures/static/media/lumin-min.379bad94.png",
-    "static/media/up-arrow-circle.d6c4e78d.svg": "/leagum-baccalaures/static/media/up-arrow-circle.d6c4e78d.svg",
-    "static/media/yourspace-min.png": "/leagum-baccalaures/static/media/yourspace-min.5f9e3077.png"
+    "static/media/up-arrow-circle.942c81fd.svg": "/leagum-baccalaures/static/media/up-arrow-circle.942c81fd.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.2a1e84ef.js",
     "static/js/2.424625e8.chunk.js",
-    "static/css/main.0e0a9016.chunk.css",
-    "static/js/main.b6db0b1a.chunk.js"
+    "static/css/main.35db932d.chunk.css",
+    "static/js/main.8b85c5f7.chunk.js"
   ]
 }
