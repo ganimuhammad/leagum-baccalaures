@@ -14,10 +14,10 @@ const About = () => {
           started in 2008. It is the BEST, because of its outstanding results in
           all previous years. It is DIFFERENT, being the only such centre
           managed by Law Professionals. WE a team of LAW PROFESSIONALS AND
-          SUBJECT EXPERTS are committed to offering Class room / online coaching
-          for Legal reasoning, English comprehension, grammar and verbal
-          ability, Current affairs and General knowledge, Logical reasoning &
-          Numerical ability
+          SUBJECT EXPERTS are committed to offering className room / online
+          coaching for Legal reasoning, English comprehension, grammar and
+          verbal ability, Current affairs and General knowledge, Logical
+          reasoning & Numerical ability
         </div>
       </div>
     </div>

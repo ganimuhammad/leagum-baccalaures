@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import { Route } from "react-router-dom";
+import { Route, Switch } from "react-router-dom";
 import { gsap } from "gsap";
 import "./styles/App.scss";
 import Header from "./components/header";
@@ -10,14 +10,6 @@ import Approach from "./pages/approach";
 import Services from "./pages/services";
 import About from "./pages/about";
 import Home from "./pages/home";
-
-const routes = [
-  { path: "/", name: "Home", Component: Home },
-  { path: "/case-studies", name: "caseStudies", Component: CaseStudies },
-  { path: "/approach", name: "approach", Component: Approach },
-  { path: "/services", name: "services", Component: Services },
-  { path: "/about-us", name: "about", Component: About },
-];
 
 function debounce(fn, ms) {
   let timer;
@@ -51,15 +43,28 @@ function App() {
       window.removeEventListener("resize", debouncedHandleResize);
     };
   });
+
   return (
     <>
       <Header dimensions={dimensions} />
       <div className="App">
-        {routes.map(({ path, Component }) => (
-          <Route key={path} exact path={path}>
-            <Component dimensions={dimensions} />
+        <Switch>
+          <Route exact path="/">
+            <Home dimensions={dimensions} />
           </Route>
-        ))}
+          <Route path="/about-us">
+            <About dimensions={dimensions} />
+          </Route>
+          <Route path="/case-studies">
+            <CaseStudies dimensions={dimensions} />
+          </Route>
+          <Route path="/approach">
+            <Approach dimensions={dimensions} />
+          </Route>
+          <Route path="/services">
+            <Services dimensions={dimensions} />
+          </Route>
+        </Switch>
       </div>
       <Navigation />
     </>
