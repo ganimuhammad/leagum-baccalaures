@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "71436ada1896540193d7998ca17eb5c4",
+    "revision": "6a1937beed9c645699c90e3b0f0b3e98",
     "url": "/leagum-baccalaures/index.html"
   },
   {
-    "revision": "97573317efced56347d0",
-    "url": "/leagum-baccalaures/static/css/main.35db932d.chunk.css"
+    "revision": "2186ae804063f9042229",
+    "url": "/leagum-baccalaures/static/css/main.3d52337b.chunk.css"
   },
   {
-    "revision": "f6127887a59f9b2121f7",
-    "url": "/leagum-baccalaures/static/js/2.424625e8.chunk.js"
+    "revision": "5fb70c199eb8981e22c2",
+    "url": "/leagum-baccalaures/static/js/2.13ac5d36.chunk.js"
   },
   {
     "revision": "16dc63aa84c04723edd1f84ad6e61807",
-    "url": "/leagum-baccalaures/static/js/2.424625e8.chunk.js.LICENSE.txt"
+    "url": "/leagum-baccalaures/static/js/2.13ac5d36.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "97573317efced56347d0",
-    "url": "/leagum-baccalaures/static/js/main.08f2fcb2.chunk.js"
+    "revision": "2186ae804063f9042229",
+    "url": "/leagum-baccalaures/static/js/main.5f38bf3c.chunk.js"
   },
   {
     "revision": "4ab952e40cd2ca4d7c93",
@@ -34,10 +34,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0b799b452cbbcb5f563dea5158df9e81",
     "url": "/leagum-baccalaures/static/media/3.0b799b45.png"
-  },
-  {
-    "revision": "f9a44e1ccb9f44cd4de1da8fe7f6f4d8",
-    "url": "/leagum-baccalaures/static/media/arrow-left.f9a44e1c.svg"
   },
   {
     "revision": "dc372a07777e87891aaac087cfbe60ad",

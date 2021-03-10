@@ -1,28 +1,27 @@
 {
   "files": {
-    "main.css": "/leagum-baccalaures/static/css/main.35db932d.chunk.css",
-    "main.js": "/leagum-baccalaures/static/js/main.08f2fcb2.chunk.js",
-    "main.js.map": "/leagum-baccalaures/static/js/main.08f2fcb2.chunk.js.map",
+    "main.css": "/leagum-baccalaures/static/css/main.3d52337b.chunk.css",
+    "main.js": "/leagum-baccalaures/static/js/main.5f38bf3c.chunk.js",
+    "main.js.map": "/leagum-baccalaures/static/js/main.5f38bf3c.chunk.js.map",
     "runtime-main.js": "/leagum-baccalaures/static/js/runtime-main.2a1e84ef.js",
     "runtime-main.js.map": "/leagum-baccalaures/static/js/runtime-main.2a1e84ef.js.map",
-    "static/js/2.424625e8.chunk.js": "/leagum-baccalaures/static/js/2.424625e8.chunk.js",
-    "static/js/2.424625e8.chunk.js.map": "/leagum-baccalaures/static/js/2.424625e8.chunk.js.map",
+    "static/js/2.13ac5d36.chunk.js": "/leagum-baccalaures/static/js/2.13ac5d36.chunk.js",
+    "static/js/2.13ac5d36.chunk.js.map": "/leagum-baccalaures/static/js/2.13ac5d36.chunk.js.map",
     "index.html": "/leagum-baccalaures/index.html",
-    "precache-manifest.377bc8590e6d123c279fc83fbfcd0c85.js": "/leagum-baccalaures/precache-manifest.377bc8590e6d123c279fc83fbfcd0c85.js",
+    "precache-manifest.f331e0cd05155a10bada91d116e129d9.js": "/leagum-baccalaures/precache-manifest.f331e0cd05155a10bada91d116e129d9.js",
     "service-worker.js": "/leagum-baccalaures/service-worker.js",
-    "static/css/main.35db932d.chunk.css.map": "/leagum-baccalaures/static/css/main.35db932d.chunk.css.map",
-    "static/js/2.424625e8.chunk.js.LICENSE.txt": "/leagum-baccalaures/static/js/2.424625e8.chunk.js.LICENSE.txt",
+    "static/css/main.3d52337b.chunk.css.map": "/leagum-baccalaures/static/css/main.3d52337b.chunk.css.map",
+    "static/js/2.13ac5d36.chunk.js.LICENSE.txt": "/leagum-baccalaures/static/js/2.13ac5d36.chunk.js.LICENSE.txt",
     "static/media/1.png": "/leagum-baccalaures/static/media/1.a6110e4c.png",
     "static/media/2.png": "/leagum-baccalaures/static/media/2.b337f2e9.png",
     "static/media/3.png": "/leagum-baccalaures/static/media/3.0b799b45.png",
-    "static/media/arrow-left.f9a44e1c.svg": "/leagum-baccalaures/static/media/arrow-left.f9a44e1c.svg",
     "static/media/arrow-right.dc372a07.svg": "/leagum-baccalaures/static/media/arrow-right.dc372a07.svg",
     "static/media/up-arrow-circle.942c81fd.svg": "/leagum-baccalaures/static/media/up-arrow-circle.942c81fd.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.2a1e84ef.js",
-    "static/js/2.424625e8.chunk.js",
-    "static/css/main.35db932d.chunk.css",
-    "static/js/main.08f2fcb2.chunk.js"
+    "static/js/2.13ac5d36.chunk.js",
+    "static/css/main.3d52337b.chunk.css",
+    "static/js/main.5f38bf3c.chunk.js"
   ]
 }
